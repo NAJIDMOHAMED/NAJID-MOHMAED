@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is NAJID MOHAMED and I'm a Software engineer Students , from Errachidia </h2>
+<h2 align="left">Hi 👋! My name is NAJID MOHAMED and I'm a Software engineer Students </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://imgflip.com/i/9w4yds)"  />
 
 ###
 
