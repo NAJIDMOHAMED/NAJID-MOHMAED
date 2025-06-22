@@ -37,10 +37,6 @@
 <li>
 <p>📫 Reach me at <a href="mailto:mohamednajid2026@gmail.com">mohamednajid2026@gmail.com</a></p>
 </li>
-<li>
-<p></p>
-</li>
-<li>
 <p>💬 Ask me about Java, Spring Boot, React.js, SQL/NoSQL databases</p>
 </li>
 </ul>
