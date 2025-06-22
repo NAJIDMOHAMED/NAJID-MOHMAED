@@ -38,7 +38,7 @@
 <p>📫 Reach me at <a href="mailto:mohamednajid2026@gmail.com">mohamednajid2026@gmail.com</a></p>
 </li>
 <li>
-<p>📱 Phone: +212 6 11 27 30 98</p>
+<p></p>
 </li>
 <li>
 <p>💬 Ask me about Java, Spring Boot, React.js, SQL/NoSQL databases</p>
