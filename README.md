@@ -26,16 +26,19 @@
 <p>🎓 4th-year Computer Science student at ENSAH</p>
 </li>
 <li>
+<p>📍 Based in Marrakech, Morocco</p>
+</li>
+<li>
 <p>💼 Currently working on Java Spring Boot, React.js, and Web Application Development</p>
 </li>
 <li>
 <p>🌱 Learning about AI agents, Microservices, and scalable backend architecture</p>
 </li>
 <li>
-<p>📫 Reach me at <a href="mailto:najidilhame023@gmail.com">najidilhame023@gmail.com</a></p>
+<p>📫 Reach me at <a href="mailto:mohamednajid2026@gmail.com">mohamednajid2026@gmail.com</a></p>
 </li>
 <li>
-<p>📱 Phone: +212 696-697151</p>
+<p>📱 Phone: +212 6 11 27 30 98</p>
 </li>
 <li>
 <p>💬 Ask me about Java, Spring Boot, React.js, SQL/NoSQL databases</p>
@@ -50,12 +53,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamednajid&theme=dark&show_icons=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NAJIDMOHAMED&theme=dark&show_icons=true&count_private=true">
   <br><br>
-  <img title="🔥 GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamednajid&theme=dark&hide_border=false"> 
+  <img title="🔥 GitHub Streak" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NAJIDMOHAMED&theme=dark&hide_border=false"> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohamednajid&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NAJIDMOHAMED&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
 </td>
 </tr>
 </table>
@@ -63,7 +66,7 @@
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=mohamednajid&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=NAJIDMOHAMED&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY">
     </a>
 </div>
 
@@ -91,17 +94,17 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/mohamednajid" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
-<a href="mailto:najidilhame023@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"></a>
+<a href="https://www.linkedin.com/in/najid-mohamed-1075932b5" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
+<a href="mailto:mohamednajid2026@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"></a>
+<a href="https://github.com/NAJIDMOHAMED" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50"></a>
 </p>
 
 <!--profile visit count-->
 <div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mohamednajid&icon=3&color=6" alt="visit count"></a></p>
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=NAJIDMOHAMED&icon=3&color=6" alt="visit count"></a></p>
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
-<p>Credit: <a href="https://github.com/1010nishant">Template inspired by 1010nishant</a></p>
-<p>Last Edited on: 22/06/2025</p>
+
